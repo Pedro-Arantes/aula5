@@ -1,0 +1,33 @@
+body{
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    margin-bottom: 50px;
+}
+a{ text-decoration: none;}
+a:link{
+    background-color: crimson;
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 14px 25px;
+    border-radius: 10px;
+    margin-top: 10px;
+    transition-duration: 0.5s;
+    
+}
+a:hover{
+    background-color: darkred;
+}
+
+button{
+    background-color: aquamarine;
+    padding: 14px 25px;
+}
+.btn-remover{
+    background-color: crimson;
+    padding: 14px 25px;
+}
+.btn-carrinho{
+    background-color: chartreuse;
+}
